@@ -1,0 +1,28 @@
+1001c1001
+< GENERATE_DOCSET        = NO
+---
+> GENERATE_DOCSET        = YES
+1008c1008
+< DOCSET_FEEDNAME        = "Doxygen generated docs"
+---
+> DOCSET_FEEDNAME        = "GLFW docs"
+1015c1015
+< DOCSET_BUNDLE_ID       = org.doxygen.Project
+---
+> DOCSET_BUNDLE_ID       = GLFW
+1021c1021
+< DOCSET_PUBLISHER_ID    = org.doxygen.Publisher
+---
+> DOCSET_PUBLISHER_ID    = org.glfw
+1025c1025
+< DOCSET_PUBLISHER_NAME  = Publisher
+---
+> DOCSET_PUBLISHER_NAME  = GLFW
+1147c1147
+< DISABLE_INDEX          = NO
+---
+> DISABLE_INDEX          = YES
+1236c1236
+< SEARCHENGINE           = YES
+---
+> SEARCHENGINE           = NO
